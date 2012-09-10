@@ -1,0 +1,1 @@
+<small>{{HTML::link(URL::home(),$name).' - '.$description}}</small>
